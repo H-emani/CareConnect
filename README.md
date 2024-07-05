@@ -1,5 +1,5 @@
 # Himani_Karn_Google Hackathon_2024
-# CareConnect
+# Care-Connect
 This application, built using Python, Jupyter Notebook, and HTML, serves as a user-friendly tool for identifying potential diseases based on input symptoms. It offers detailed information including disease name, description, precautions, as well as diet and workout recommendations. Users can simply input their symptoms and receive comprehensive insights, aiding in self-assessment and healthcare decision-making.
 
 # Problem Statement
